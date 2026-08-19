@@ -4,7 +4,6 @@
 
 9+ years across the full lifecycle of corporate systems, requirements to production support, in high-stakes domains: instant payments (PIX) and digital health. I'm usually the person other engineers bring code decisions and reviews to, and lately that includes wiring AI coding agents (Claude Code, OpenAI Codex) into the day-to-day workflow rather than just talking about them.
 
-📍 Rio de Janeiro, Brazil · 🔗 [LinkedIn](https://linkedin.com/in/tiago-coutinho-dados) · ✉️ [tiagosalmom@gmail.com](mailto:tiagosalmom@gmail.com)
 
 ---
 
