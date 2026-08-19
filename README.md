@@ -62,6 +62,20 @@ These repositories are small, focused implementations of patterns that appear in
 | [incident-runbook-cli](https://github.com/jamessalmom/incident-runbook-cli) | A command-line tool that turns YAML incident runbooks into Markdown and flags transaction outliers with z-score analysis. |
 | [ai-docstring-assistant](https://github.com/jamessalmom/ai-docstring-assistant) | A focused assistant that finds undocumented functions and classes, then prepares review-ready prompts for an LLM to draft docstrings. |
 
+## Pandas and regular expressions projects
+
+I also maintain a set of practical projects focused on data preparation with Pandas and regular expressions. Each repository explores one focused problem, with Portuguese documentation, executable examples, and a clear explanation of the trade-offs behind the solution.
+
+| Project | Focus |
+|---|---|
+| [pandas-regex-numeric-extraction](https://github.com/jamessalmom/pandas-regex-numeric-extraction) | Extracting numeric values from Brazilian-formatted text |
+| [pandas-regex-email-validation](https://github.com/jamessalmom/pandas-regex-email-validation) | Validating email addresses with regular expressions |
+| [pandas-regex-document-cleaning](https://github.com/jamessalmom/pandas-regex-document-cleaning) | Cleaning and classifying CPF and CNPJ values |
+| [pandas-regex-address-parser](https://github.com/jamessalmom/pandas-regex-address-parser) | Splitting addresses into structured columns |
+| [pandas-regex-hashtag-extraction](https://github.com/jamessalmom/pandas-regex-hashtag-extraction) | Extracting multiple hashtags with `str.findall` |
+| [pandas-regex-date-normalization](https://github.com/jamessalmom/pandas-regex-date-normalization) | Normalizing dates with regex preprocessing and `to_datetime` |
+| [pandas-regex-phone-normalization](https://github.com/jamessalmom/pandas-regex-phone-normalization) | Standardizing Brazilian phone numbers with a compiled regex |
+
 ## A little more about my work
 
 I am interested in Python and Flask architecture, BI platforms, data integration, payment systems, and practical applications of AI in software engineering. The projects above are where I experiment with these ideas in a compact, testable, and openly documented form.
