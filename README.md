@@ -76,16 +76,6 @@ I also maintain a set of practical projects focused on data preparation with Pan
 | [pandas-regex-date-normalization](https://github.com/jamessalmom/pandas-regex-date-normalization) | Normalizing dates with regex preprocessing and `to_datetime` |
 | [pandas-regex-phone-normalization](https://github.com/jamessalmom/pandas-regex-phone-normalization) | Standardizing Brazilian phone numbers with a compiled regex |
 
-## Analytics platform patterns
-
-These repositories explore a small analytics platform through complementary data, backend, and interface patterns. They use synthetic data to demonstrate architecture and delivery practices without exposing business information.
-
-| Repository | Focus |
-|---|---|
-| [analytics-platform-patterns-2022](https://github.com/jamessalmom/analytics-platform-patterns-2022) | Foundational data, backend, and dashboard patterns |
-| [analytics-platform-patterns-2023](https://github.com/jamessalmom/analytics-platform-patterns-2023) | Reusable analytics workflows and application components |
-| [analytics-platform-patterns-2024](https://github.com/jamessalmom/analytics-platform-patterns-2024) | Data quality, Flask services, and dashboard integration |
-| [analytics-platform-patterns-2025](https://github.com/jamessalmom/analytics-platform-patterns-2025) | Integrated patterns for an evolving analytics platform |
 
 ## A little more about my work
 
