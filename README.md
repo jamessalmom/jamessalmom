@@ -62,20 +62,6 @@ These repositories are small, focused implementations of patterns that appear in
 | [incident-runbook-cli](https://github.com/jamessalmom/incident-runbook-cli) | A command-line tool that turns YAML incident runbooks into Markdown and flags transaction outliers with z-score analysis. |
 | [ai-docstring-assistant](https://github.com/jamessalmom/ai-docstring-assistant) | A focused assistant that finds undocumented functions and classes, then prepares review-ready prompts for an LLM to draft docstrings. |
 
-## Monthly Pandas and regular expressions series
-
-I also maintain a practical series focused on data preparation with Pandas and regular expressions. Each repository explores one focused problem, with Portuguese documentation, executable examples, and a clear explanation of the trade-offs behind the solution.
-
-| Month | Topic |
-|---|---|
-| January | [Extracting numeric values](https://github.com/jamessalmom/01-janeiro-extrair-valores-numericos) from Brazilian-formatted text |
-| February | [Validating email addresses](https://github.com/jamessalmom/02-fevereiro-validar-emails) with regular expressions |
-| March | [Cleaning CPF and CNPJ values](https://github.com/jamessalmom/03-marco-limpar-documento) and classifying documents |
-| April | [Splitting addresses](https://github.com/jamessalmom/04-abril-dividir-endereco) into structured columns |
-| May | [Extracting hashtags](https://github.com/jamessalmom/05-maio-extrair-hashtags) with `str.findall` |
-| June | [Normalizing dates](https://github.com/jamessalmom/06-junho-normalizar-datas) with regex preprocessing and `to_datetime` |
-| July | [Standardizing Brazilian phone numbers](https://github.com/jamessalmom/07-julho-padronizar-telefones) with a compiled regex |
-
 ## A little more about my work
 
 I am interested in Python and Flask architecture, BI platforms, data integration, payment systems, and practical applications of AI in software engineering. The projects above are where I experiment with these ideas in a compact, testable, and openly documented form.
