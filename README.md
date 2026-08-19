@@ -78,9 +78,9 @@ I also maintain a set of practical projects focused on data preparation with Pan
 
 ## Analytics platform patterns
 
-These repositories preserve the evolution of a small analytics platform across four annual snapshots. They bring together Pandas utilities, Flask routes, and reusable dashboard components, using synthetic data to demonstrate architecture and delivery patterns without exposing business information.
+These repositories explore a small analytics platform through complementary data, backend, and interface patterns. They use synthetic data to demonstrate architecture and delivery practices without exposing business information.
 
-| Snapshot | Focus |
+| Repository | Focus |
 |---|---|
 | [analytics-platform-patterns-2022](https://github.com/jamessalmom/analytics-platform-patterns-2022) | Foundational data, backend, and dashboard patterns |
 | [analytics-platform-patterns-2023](https://github.com/jamessalmom/analytics-platform-patterns-2023) | Reusable analytics workflows and application components |
