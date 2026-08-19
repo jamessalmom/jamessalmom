@@ -1,5 +1,9 @@
 # Tiago Coutinho
 
+<p align="center">
+  <img src="./assets/profile-hero.gif" alt="Abstract animated signal representing reliable systems and data flow" width="100%" />
+</p>
+
 ## Senior Systems Analyst | Python, Flask, SQL, BI, and Data Integration
 
 I work at the intersection of business needs and engineering. Over the past nine years, I have worked across the full lifecycle of corporate systems, from requirements and data modeling to implementation, deployment, and production support.
