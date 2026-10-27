@@ -2,7 +2,7 @@
 
 Analista de sistemas e dados · Python · SQL · BI
 
-Trabalho há mais de nove anos com sistemas corporativos e dados, quase sempre no meio do caminho entre a área de negócio e a parte técnica. Já passei por pagamentos instantâneos (PIX), saúde digital (PACS/RIS) e engenharia de dados na AWS. Hoje meu dia a dia é BI, ETL e inteligência comercial: modelar dados, escrever SQL, montar dashboards e automatizar o que ainda é feito na mão.
+Trabalho há mais de nove anos com sistemas corporativos e dados, quase sempre no meio do caminho entre a área de negócio e a parte técnica. Já passei por pagamentos instantâneos (PIX), saúde digital (PACS/RIS) e engenharia de dados na AWS. Hoje sou Analista de TI Sênior e meu dia a dia é BI, ETL e integração de sistemas: modelar dados, escrever SQL, montar dashboards e automatizar o que ainda é feito na mão.
 
 ## Ferramentas que uso
 
@@ -39,7 +39,7 @@ Uso Claude Code e Codex no dia a dia para acelerar implementação, documentaç�
 
 ## Contato
 
-tiagosalmom94@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tiago-coutinho-dados) · tiagosalmom@gmail.com
 
 ---
 
